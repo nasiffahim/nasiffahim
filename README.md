@@ -1,5 +1,5 @@
 <div align="center">
-# 🌟 Nasif Wasek - Software Developer 🌟
+🌟 Nasif Wasek - Software Developer 🌟
 </div>
 
 <div align="center">
