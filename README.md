@@ -111,9 +111,7 @@ interests: ["Web Development", "Problem Solving", "Learning New Technologies"]
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   
-  ### ⭐ **Thank you for visiting my profile!** ⭐
-  
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nasiffahim.nasiffahim&style=flat-square&color=0088cc)
+ ⭐ **Thank you for visiting my profile!** ⭐
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 </div>
