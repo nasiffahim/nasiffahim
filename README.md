@@ -1,8 +1,7 @@
 <div align="center">
 🌟 Nasif Wasek - Software Developer 🌟
-
 </div>
-
+<br/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
 </div>
