@@ -5,10 +5,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.facebook.com/nasif.wasek/" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> Facebook</a></code>
-  <code><a href="https://x.com/WasekFahim" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg">Twitter</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/nasif-wasek/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.facebook.com/nasif.wasek/" title="Facebook Profile"><img width="22" src="images/facebook-logo.svg"> Facebook</a></code>
+  <code><a href="https://x.com/WasekFahim" title="Twitter Profile"><img width="22" src="images/twitter-x-logo.svg">Twitter</a></code>
+  <code><a href="https://www.instagram.com/nasif_wasek/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
