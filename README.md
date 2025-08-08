@@ -77,35 +77,33 @@ interests: ["Web Development", "Problem Solving", "Learning New Technologies"]
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nasiffahim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasiffahim&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=nasiffahim&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasiffahim&theme=tokyo-night&bg_color=1a1b27&hide_border=true&border_radius=10" width="100%"/>
-</div>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=nasiffahim&theme=react&border=61dafb&hide_border=true" alt="nasiffahim" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=nasiffahim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasiffahim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasiffahim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 ---
 
 ## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nasiffahim&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%"/>
-</div>
-
----
-
-## 📈 **Contribution Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasiffahim&custom_title=Nasif's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nasiffahim&theme=react&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%"/>
 </div>
 
 ---
