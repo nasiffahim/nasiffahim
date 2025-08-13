@@ -18,14 +18,14 @@
 
 ```yaml
 👨‍💻 Developer Profile:
-  name: "Nasif Wasek"
-  role: "Junior Software Developer"
-  location: "Bangladesh 🇧🇩"
+  Name: "Nasif Wasek"
+  Role: "Junior Software Developer"
+  Location: "Bangladesh"
   
 🎓 Education:
-  degree: "B.Sc in Computer Science & Engineering"
-  university: "East West University"
-  college: "Brahmanbaria Govt. College (HSC)"
+  Degree: "B.Sc in Computer Science & Engineering"
+  University: "East West University"
+  College: "Brahmanbaria Govt. College (HSC)"
   
 💡 Current Focus:
   - "Building Responsive Web Applications"
@@ -211,11 +211,11 @@
 - [ ] Learn System Design
 - [ ] Get AWS Certification
 
-### 🌟 **Fun Stats**
- ☕ **Coffee Cups**: Infinite ∞
- 🐛 **Bugs Fixed**: Too many to count
- 💡 **Ideas**: Always brewing
- 🚀 **Projects**: Building the future
+### 🌟 Fun Stats
+☕ Coffee Cups: Infinite ∞
+🐛 Bugs Fixed: Too many to count
+💡 Ideas: Always brewing
+🚀 Projects: Building the future
 
 </div>
 
