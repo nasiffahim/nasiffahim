@@ -212,10 +212,10 @@
 - [ ] Get AWS Certification
 
 ### 🌟 Fun Stats
-☕ Coffee Cups: Infinite ∞
-🐛 Bugs Fixed: Too many to count
-💡 Ideas: Always brewing
-🚀 Projects: Building the future
+- ☕ Coffee Cups: Infinite ∞
+- 🐛 Bugs Fixed: Too many to count
+- 💡 Ideas: Always brewing
+- 🚀 Projects: Building the future
 
 </div>
 
