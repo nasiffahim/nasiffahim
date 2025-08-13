@@ -172,25 +172,26 @@
 
 ---
 
-## <h2 align="center">🌐 Connect with Me</h2>
+## <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nasif-wasek/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-Nasif%20Wasek-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/nasif.wasek/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/-Nasif%20Wasek-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
   </a>
   <a href="https://x.com/WasekFahim" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%20(X)-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/-@WasekFahim-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter/X"/>
   </a>
   <a href="https://www.instagram.com/nasif_wasek/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-nasif__wasek-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   <a href="mailto:nasif.wasek@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-nasif.wasek%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
 </p>
+
 
 
 
