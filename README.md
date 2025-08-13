@@ -203,19 +203,20 @@
 ## 🏆 **Achievements & Goals**
 
 <div align="center">
-🎯 2025 Goals
 
- Master Advanced React Patterns
- Build 5 Full-Stack Projects
- Contribute to Open Source Projects
- Learn System Design
- Get AWS Certification
+### 🎯 **2025 Goals**
+- [ ] Master Advanced React Patterns
+- [ ] Build 5 Full-Stack Projects
+- [ ] Contribute to Open Source Projects
+- [ ] Learn System Design
+- [ ] Get AWS Certification
 
-🌟 Fun Stats
+### 🌟 Fun Stats
 ☕ Coffee Cups: Infinite ∞<br/>
 🐛 Bugs Fixed: Too many to count<br/>
 💡 Ideas: Always brewing<br/>
 🚀 Projects: Building the future
+
 </div>
 
 
