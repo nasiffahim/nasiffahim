@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 **About Me**
+## 🚀 <h2 align="center">**About Me**</h2>
 
 <table>
 <tr>
@@ -43,7 +43,7 @@
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding Animation">
 
-### 🎯 **Quick Facts**
+### <h2 align="center">🎯 **Quick Facts**</h2>
 - 🔭 Working on **Full-Stack Web Applications**
 - 🌱 Learning **Next.js, Express.js & System Design**
 - 💬 Ask me about **JavaScript, React, Python, DSA**
@@ -56,7 +56,7 @@
 
 ---
 
-## 🛠️ **Technology Stack**
+## <h2 align="center">🛠️ **Technology Stack**</h2>
 
 <div align="center">
 
@@ -141,7 +141,7 @@
 </tr>
 </table>
 
-### 🔧 **Tools & Technologies**
+### <h2 align="center">🔧 **Tools & Technologies**</h2>
 
 <table>
 <tr>
@@ -172,7 +172,7 @@
 
 ---
 
-## 🌐 **Connect With Me**
+## <h2 align="center">🌐 **Connect With Me**</h2>
 
 <div align="center">
 
@@ -200,7 +200,7 @@
 
 ---
 
-## 🏆 **Achievements & Goals**
+## <h2 align="center">🏆 **Achievements & Goals**</h2>
 
 <div align="center">
 
