@@ -202,22 +202,31 @@
 
 ## 🏆 **Achievements & Goals**
 
-<div align="center">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <!-- Goals Section -->
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <h2>🎯 2025 Goals</h2>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>Master Advanced React Patterns</li>
+      <li>Build 5 Full-Stack Projects</li>
+      <li>Contribute to Open Source Projects</li>
+      <li>Learn System Design</li>
+      <li>Get AWS Certification</li>
+    </ul>
+  </div>
 
-### 🎯 **2025 Goals**
-- [ ] Master Advanced React Patterns
-- [ ] Build 5 Full-Stack Projects
-- [ ] Contribute to Open Source Projects
-- [ ] Learn System Design
-- [ ] Get AWS Certification
-
-### 🌟 Fun Stats
-☕ Tea Cups: Infinite ∞<br/>
-🐛 Bugs Fixed: Too many to count<br/>
-💡 Ideas: Always brewing<br/>
-🚀 Projects: Building the future
-
+  <!-- Fun Stats Section -->
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <h2>🌟 Fun Stats</h2>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>☕ Coffee Cups: Infinite ∞</li>
+      <li>🐛 Bugs Fixed: Too many to count</li>
+      <li>💡 Ideas: Always brewing</li>
+      <li>🚀 Projects: Building the future</li>
+    </ul>
+  </div>
 </div>
+
 
 ---
 
