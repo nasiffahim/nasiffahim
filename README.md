@@ -2,7 +2,8 @@
 
 # 🌟 Nasif Wasek - Software Developer 🌟
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Let's%20build%20something%20amazing%20together!&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontAlignY=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Nasif+Wasek;Junior+Software+Developer;From+Bangladesh+🇧🇩;Passionate+about+Web+Development;Always+Learning+New+Technologies;&center=true&width=500&height=60&font=Fira%20Code&color=667eea&vCenter=true&size=24&pause=1000">
 
