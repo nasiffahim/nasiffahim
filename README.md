@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 <h2 align="center">**About Me**</h2>
+## <h2 align="center">🚀 About Me</h2>
 
 <table>
 <tr>
