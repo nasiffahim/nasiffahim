@@ -109,7 +109,7 @@
 <br><strong>Next.js</strong>
 </td>
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" alt="Tailwind"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65" height="65" alt="Tailwind"/>
 <br><strong>Tailwind CSS</strong>
 </td>
 </tr>
