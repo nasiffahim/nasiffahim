@@ -21,7 +21,6 @@
   name: "Nasif Wasek"
   role: "Junior Software Developer"
   location: "Bangladesh 🇧🇩"
-  company: "Building Dreams in Code"
   
 🎓 Education:
   degree: "B.Sc in Computer Science & Engineering"
@@ -173,28 +172,6 @@
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=nasif-wasek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasif-wasek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nasif-wasek&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nasif-wasek&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-
-</div>
-
----
-
 ## 🌐 **Connect With Me**
 
 <div align="center">
@@ -235,25 +212,10 @@
 - [ ] Get AWS Certification
 
 ### 🌟 **Fun Stats**
-- ☕ **Coffee Cups**: Infinite ∞
-- 🐛 **Bugs Fixed**: Too many to count
-- 💡 **Ideas**: Always brewing
-- 🚀 **Projects**: Building the future
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 **Developer Quote**
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-⭐ **Thanks for visiting! Let's connect and build something amazing together!** ⭐
-
-![Profile Views](https://komarev.com/ghpvc/?username=nasif-wasek&color=667eea&style=flat-square&label=Profile+Views)
+ ☕ **Coffee Cups**: Infinite ∞
+ 🐛 **Bugs Fixed**: Too many to count
+ 💡 **Ideas**: Always brewing
+ 🚀 **Projects**: Building the future
 
 </div>
 
