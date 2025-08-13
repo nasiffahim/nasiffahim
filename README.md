@@ -1,79 +1,261 @@
 <div align="center">
-🌟 Nasif Wasek - Software Developer 🌟
-</div>
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Nasif+Wasek;Junior+Software+Developer;From+Bangladesh+🇧🇩;Welcome+to+my+GitHub!&center=true&width=380&height=50&font=Fira%20Code&color=58a6ff&vCenter=true&size=22">
-</div>
+# 🌟 Nasif Wasek - Software Developer 🌟
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Let's%20build%20something%20amazing%20together!&descAlignY=60&descSize=18" width="100%"/>
 
-<div align="center">
-  
-### 🔗 **Connect with me:**
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasif-wasek/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nasif.wasek/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/WasekFahim)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nasif_wasek/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasif.wasek@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Nasif+Wasek;Junior+Software+Developer;From+Bangladesh+🇧🇩;Passionate+about+Web+Development;Always+Learning+New+Technologies;&center=true&width=500&height=60&font=Fira%20Code&color=667eea&vCenter=true&size=24&pause=1000">
 
 </div>
 
 ---
 
-## 👨‍💻 **About Me**
+## 🚀 **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table>
+<tr>
+<td width="50%">
 
 ```yaml
-name: Nasif Wasek
-role: Junior Software Developer
-location: Bangladesh 🇧🇩
-education: 
-  - "🎓 B.Sc in CSE - East West University"
-  - "🎓 HSC - Brahmanbaria Govt. College"
-current_focus: "Building Responsive Websites with Next.js & Express.js"
-interests: ["Web Development", "Problem Solving", "Learning New Technologies"]
+👨‍💻 Developer Profile:
+  name: "Nasif Wasek"
+  role: "Junior Software Developer"
+  location: "Bangladesh 🇧🇩"
+  company: "Building Dreams in Code"
+  
+🎓 Education:
+  degree: "B.Sc in Computer Science & Engineering"
+  university: "East West University"
+  college: "Brahmanbaria Govt. College (HSC)"
+  
+💡 Current Focus:
+  - "Building Responsive Web Applications"
+  - "Mastering Next.js & Express.js"
+  - "Problem Solving & Algorithm Design"
+  
+🌱 Learning Journey:
+  - "Advanced React Patterns"
+  - "Backend Architecture"
+  - "Database Optimization"
 ```
 
-- 🔭 I'm currently working on **Web Development Projects**
-- 🌱 I'm currently learning **Next.js, Express.js & Advanced React**
-- 💬 Ask me about **JavaScript, React, Python, Problem Solving**
-- 📫 How to reach me: **nasif.wasek@gmail.com**
-- ⚡ Fun fact: **I love solving coding challenges and building interactive UIs**
+</td>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding Animation">
+
+### 🎯 **Quick Facts**
+- 🔭 Working on **Full-Stack Web Applications**
+- 🌱 Learning **Next.js, Express.js & System Design**
+- 💬 Ask me about **JavaScript, React, Python, DSA**
+- 📫 Reach me: **nasif.wasek@gmail.com**
+- ⚡ Fun fact: **I debug with console.log and I'm proud of it!** 😄
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ **Technologies & Tools**
+## 🛠️ **Technology Stack**
 
-### **Languages:**
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<div align="center">
 
-### **Frontend:**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+### 💻 **Programming Languages**
 
-### **Backend & Database:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="65" height="65" alt="C"/>
+<br><strong>C</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++"/>
+<br><strong>C++</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65" alt="Python"/>
+<br><strong>Python</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65" height="65" alt="JavaScript"/>
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65" height="65" alt="Java"/>
+<br><strong>Java</strong>
+</td>
+</tr>
+</table>
 
-### **Tools & Technologies:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+### 🎨 **Frontend Development**
+
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5"/>
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3"/>
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="65" height="65" alt="React"/>
+<br><strong>React</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js"/>
+<br><strong>Next.js</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" alt="Tailwind"/>
+<br><strong>Tailwind CSS</strong>
+</td>
+</tr>
+</table>
+
+### ⚙️ **Backend & Database**
+
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js"/>
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="65" height="65" alt="Express.js"/>
+<br><strong>Express.js</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL"/>
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB"/>
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="65" height="65" alt="Firebase"/>
+<br><strong>Firebase</strong>
+</td>
+</tr>
+</table>
+
+### 🔧 **Tools & Technologies**
+
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="65" height="65" alt="Git"/>
+<br><strong>Git</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="65" height="65" alt="GitHub"/>
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code"/>
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="65" height="65" alt="NPM"/>
+<br><strong>NPM</strong>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="65" height="65" alt="Figma"/>
+<br><strong>Figma</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=nasif-wasek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasif-wasek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nasif-wasek&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nasif-wasek&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+
+</div>
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nasif-wasek/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="margin: 5px;"/>
+</a>
+
+<a href="https://www.facebook.com/nasif.wasek/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" style="margin: 5px;"/>
+</a>
+
+<a href="https://x.com/WasekFahim" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" style="margin: 5px;"/>
+</a>
+
+<a href="https://www.instagram.com/nasif_wasek/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" style="margin: 5px;"/>
+</a>
+
+<a href="mailto:nasif.wasek@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" style="margin: 5px;"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 **Achievements & Goals**
+
+<div align="center">
+
+### 🎯 **2025 Goals**
+- [ ] Master Advanced React Patterns
+- [ ] Build 5 Full-Stack Projects
+- [ ] Contribute to Open Source Projects
+- [ ] Learn System Design
+- [ ] Get AWS Certification
+
+### 🌟 **Fun Stats**
+- ☕ **Coffee Cups**: Infinite ∞
+- 🐛 **Bugs Fixed**: Too many to count
+- 💡 **Ideas**: Always brewing
+- 🚀 **Projects**: Building the future
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **Developer Quote**
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+⭐ **Thanks for visiting! Let's connect and build something amazing together!** ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=nasif-wasek&color=667eea&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
