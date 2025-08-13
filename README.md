@@ -173,30 +173,26 @@
 ---
 
 ## 🌐 **Connect With Me**
+<h2 align="center">🌐 Connect with Me</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/nasif-wasek/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/nasif.wasek/" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://x.com/WasekFahim" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter%20(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/nasif_wasek/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:nasif.wasek@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/nasif-wasek/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="margin: 5px;"/>
-</a>
-
-<a href="https://www.facebook.com/nasif.wasek/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" style="margin: 5px;"/>
-</a>
-
-<a href="https://x.com/WasekFahim" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" style="margin: 5px;"/>
-</a>
-
-<a href="https://www.instagram.com/nasif_wasek/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" style="margin: 5px;"/>
-</a>
-
-<a href="mailto:nasif.wasek@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" style="margin: 5px;"/>
-</a>
-
-</div>
 
 ---
 
