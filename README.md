@@ -205,7 +205,7 @@
 
 <div align="center">
 
-### 🎯 **2025 Goals**
+### 🎯 **2026 Goals**
 - [ ] Master Advanced React Patterns
 - [ ] Build 5 Full-Stack Projects
 - [ ] Contribute to Open Source Projects
